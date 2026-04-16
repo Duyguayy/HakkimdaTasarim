@@ -41,6 +41,10 @@ android {
 
 dependencies {
 
+    implementation("androidx.compose.material3:material3")
+    implementation("androidx.compose.foundation:foundation") // FlowRow için
+
+
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)
     implementation(libs.androidx.activity.compose)
