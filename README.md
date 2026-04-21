@@ -3,4 +3,4 @@
 
 
 
-# 📱 TURKCELL - GYGY ÖDEVİ
+# GYGY ÖDEVİ
